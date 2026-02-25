@@ -4,12 +4,12 @@ I am a 3rd-year Computer Science Engineering student focused on software develop
 
 **🎯 Actively seeking Software Development Engineer (SDE) internship and full-time placement opportunities.**
 
-### 💻 Technical Focus & Skills
+### Technical Focus & Skills
 * **Languages:** C++, Python, Dart
 * **Frameworks & Technologies:** Flutter, Android Development
 * **Core Concepts:** Data Structures & Algorithms, Optimization Techniques, Flex & Bison 
 
-### 🛠️ Key Projects
+### Key Projects
 * **Nimi-Search**
     A mini search engine built entirely from scratch in C++. Designed without relying on standard library containers like `std::vector` to enforce strict, manual memory management and deepen understanding of data structures.
 * **MiniLang Compiler**
@@ -19,13 +19,14 @@ I am a 3rd-year Computer Science Engineering student focused on software develop
 * **AI/ML Research Initiatives**
     Currently engaged in research exploring operating system agents for LLMs and evaluating model behaviors based on recent methodologies like SycEval. 
 
-### 📊 Currently Learning & Doing
+### Currently Learning & Doing
 * Deepening my knowledge of Optimization Techniques (Simplex Method, basic feasible solutions).
 * Refining problem-solving skills in DSA to prepare for rigorous software engineering interviews.
 
-### ⚡ Outside of Code
+### Outside of Code
 When I'm not writing code or studying, I spend time analyzing ETF markets (Nifty BeES, Gold BeES) and watching anime (mostly the Big Three).
 
+I am currently working on a research project regarding hallutination on LLMs ,any help would be apreciated;
 ---
 *Feel free to reach out if you want to collaborate on core systems projects or discuss tech.*
 
