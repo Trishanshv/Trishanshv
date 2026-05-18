@@ -1,4 +1,4 @@
-# Hi, I'm Trishanshv
+# Hi, I'm Trishansh Verma
 
 I am a 3rd-year Computer Science Engineering student focused on software development, core computer science concepts, and algorithmic problem solving. I primarily work with C++, Python, and Flutter, aiming to build robust systems and practical applications.
 
