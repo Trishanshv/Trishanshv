@@ -1,5 +1,5 @@
 <div align="center">
-
+<div align="center"> <img src="https://github.com/user-attachments/assets/3a832261-549a-4bcc-9a9c-b92b8f6d5608" width="100%"/> </div>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=0891B2&center=true&vCenter=true&width=800&lines=Final-year+CS%40IIIT+Manipur+%C2%B7+SDE-focused;C%2B%2B+%2F+Python+%2F+Flutter+%C2%B7+DSA+%26+Systems;Prepping+for+SWE+interviews+%C2%B7+Google-primary;Last+internship%3A+Project+VAANI+%40+IIT+Bhilai" width="80%"/>
 </p>
