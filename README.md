@@ -1,47 +1,126 @@
-# Hi, I'm Trishansh Verma
+<div align="center">
 
-I am a 3rd-year Computer Science Engineering student focused on software development, core computer science concepts, and algorithmic problem solving. I primarily work with C++, Python, and Flutter, aiming to build robust systems and practical applications.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=0891B2&center=true&vCenter=true&width=800&lines=Final-year+CS%40IIIT+Manipur+%C2%B7+SDE-focused;C%2B%2B+%2F+Python+%2F+Flutter+%C2%B7+DSA+%26+Systems;Prepping+for+SWE+interviews+%C2%B7+Google-primary;Last+internship%3A+Project+VAANI+%40+IIT+Bhilai" width="80%"/>
+</p>
 
-**🎯 Actively seeking Software Development Engineer (SDE) internship and full-time placement opportunities.**
+<br/>
 
-### Technical Focus & Skills
-* **Languages:** C++, Python, Dart
-* **Frameworks & Technologies:** Flutter, Android Development
-* **Core Concepts:** Data Structures & Algorithms, Optimization Techniques, Flex & Bison 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0891B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trishansh)
+[![GitHub](https://img.shields.io/badge/GitHub-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trishanshv)
+[![Gmail](https://img.shields.io/badge/Gmail-0891B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishansh23@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-ffffff?style=for-the-badge&logo=googledrive&logoColor=0891B2)](https://drive.google.com/file/d/13P5oEb1tAWc9eEpbxUm0xD7B4SEnvZem/view)
 
-### Key Projects
-* **Nimi-Search**
-    A mini search engine built entirely from scratch in C++. Designed without relying on standard library containers like `std::vector` to enforce strict, manual memory management and deepen understanding of data structures.
-* **MiniLang Compiler**
-    A custom compiler developed using C++, Flex, and Bison. Focuses on lexical analysis, parsing, and abstract syntax tree generation.
-* **Life App**
-    A cross-platform Flutter application designed to visually represent human lifespan data.
-* **AI/ML Research Initiatives**
-    Currently engaged in research exploring operating system agents for LLMs and evaluating model behaviors based on recent methodologies like SycEval. 
+</div>
 
-### Currently Learning & Doing
-* Deepening my knowledge of Optimization Techniques (Simplex Method, basic feasible solutions).
-* Refining problem-solving skills in DSA to prepare for rigorous software engineering interviews.
-
-### Outside of Code
-When I'm not writing code or studying, I spend time analyzing ETF markets (Nifty BeES, Gold BeES) and watching anime (mostly the Big Three).
-
-I am currently working on a research project regarding hallutination on LLMs ,any help would be apreciated;
 ---
-*Feel free to reach out if you want to collaborate on core systems projects or discuss tech.*
 
-[LinkedIn](www.linkedin.com/in/trishansh/) | [Resume](https://drive.google.com/file/d/1Zh9vPGI9r1YcTIs8gJF3InoOZXscINvO/view?usp=sharing) | [Email](triahnsh23@gmail.com)
-<!--
-**Trishanshv/Trishanshv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Hi, I'm Trishansh — a final-year CS & Engineering student at IIIT Manipur, focused on software development, core CS fundamentals, and algorithmic problem solving. I mainly work in C++, Python, and Flutter, and I like building things that force me to actually understand what's underneath — like writing a search engine without `std::vector`, or hand-rolling a compiler with Flex and Bison instead of reaching for a library. Right now I'm splitting time between interview prep (aiming for Google), a research-flavored internship writeup, and picking a final-year project I can meaningfully extend in the time I have.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actively seeking SDE internship and full-time opportunities.
+
+---
+
+## Familiar With
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp,python,dart,js,flutter,react,nextjs,fastapi,flask,firebase,mysql,docker,git,figma&theme=dark&perline=10"/>
+</div>
+
+```ansi
+[1;36mlanguages[0m   C++ · Python · Dart · JavaScript · SQL
+[1;36mweb_mobile[0m  Flutter · React · Next.js · FastAPI · Flask
+[1;36mdata[0m        NumPy · Pandas · Firebase · MySQL
+[1;36mtools[0m       Git · Docker · Postman · Figma
+```
+
+---
+
+## Projects
+
+<table>
+<tr><td width="50%" valign="top">
+
+### Project VAANI
+`IIT Bhilai internship, under Prof. Santosh Biswas`
+
+Platform-independent, voice-first navigation middleware for Indian languages, built around an intent-based LLM system (IntentLM) for interpreting spoken navigation commands.
+
+`LLMs` `Voice` `Middleware`
+
+</td><td width="50%" valign="top">
+
+### Mini Language Compiler
+`C++ · Flex · Bison`
+
+A custom compiler built from scratch — lexical analysis, parsing, and abstract syntax tree generation, without relying on higher-level compiler frameworks.
+
+`C++` `Flex` `Bison`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### Nimi-Search
+`In progress`
+
+A mini search engine built entirely in C++, deliberately avoiding standard library containers like `std::vector` to force manual memory management and a deeper grasp of the underlying data structures.
+
+`C++` `Data Structures`
+
+</td><td width="50%" valign="top">
+
+### Life App
+`Flutter`
+
+A cross-platform app that visually represents human lifespan data.
+
+`Flutter` `Dart`
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### Churn Prediction & Market Basket Analysis
+`Codec Tech, Data Analyst Internship`
+
+Two data analysis projects: a customer churn prediction model and a market basket analysis, built during a 2-month internship.
+
+`Python` `Pandas` `NumPy`
+
+</td><td width="50%" valign="top">
+
+### Fact-Lence
+`LLM hallucination evaluator`
+
+Research-driven project evaluating hallucination behavior in LLMs, informed by recent methodologies like SycEval.
+
+`LLMs` `Evaluation` `Research`
+
+</td></tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![Followers](https://img.shields.io/github/followers/trishanshv?style=for-the-badge&label=FOLLOWERS&color=0891B2&labelColor=ffffff)](https://github.com/trishanshv?tab=followers)
+[![Total Stars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=REPO%20STARS&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Ftrishanshv&color=0891B2&labelColor=ffffff)](https://github.com/trishanshv?tab=repositories)
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=trishanshv&theme=dark&hide_border=true&background=0d1117&ring=0891B2&fire=0891B2&currStreakLabel=0891B2"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:164E63,100:0891B2&height=110&section=footer" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=trishanshv&color=0891B2&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
