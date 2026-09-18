@@ -23,7 +23,7 @@ Actively seeking SDE internship and full-time opportunities.
 
 ---
 
-## Familiar With
+## Core
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,dart,js,flutter,react,nextjs,fastapi,flask,firebase,mysql,docker,git,figma&theme=dark&perline=10"/>
@@ -32,9 +32,18 @@ Actively seeking SDE internship and full-time opportunities.
 | Category | Skills |
 |---|---|
 | Languages | C++ · Python · Dart · JavaScript · SQL |
-| Web & Mobile | Flutter · React · Next.js · FastAPI · Flask |
-| Data | NumPy · Pandas · Firebase · MySQL |
-| Tools | Git · Docker · Postman · Figma |
+| Web & Mobile | React · Next.js · Flutter · FastAPI · Flask · Firebase |
+| Data | NumPy · Pandas |
+| Technologies & Tools | Docker · Git · Figma |
+
+## Familiar With
+
+| Category | Skills |
+|---|---|
+| Technologies & Tools | Postman |
+| AI Tools & Technologies | Ollama · Hugging Face · Llama 3.1 · FAISS · Sentence Transformers · AI4Bharat IndicConformer · RAG · TensorFlow · XGBoost · scikit-learn |
+| LLM Tools | Claude · ChatGPT · Antigravity |
+| Other | Go · Kotlin · Java · PHP · TypeScript · CSS3 · PowerShell · AWS · Cloudflare · Apache · Express.js · Three.js · MongoDB · SQLite · GitLab · Jest · CMake · Photoshop · Premiere Pro · Inkscape |
 
 ---
 
