@@ -29,12 +29,12 @@ Actively seeking SDE internship and full-time opportunities.
 <img src="https://skillicons.dev/icons?i=cpp,python,dart,js,flutter,react,nextjs,fastapi,flask,firebase,mysql,docker,git,figma&theme=dark&perline=10"/>
 </div>
 
-```ansi
-[1;36mlanguages[0m   C++ · Python · Dart · JavaScript · SQL
-[1;36mweb_mobile[0m  Flutter · React · Next.js · FastAPI · Flask
-[1;36mdata[0m        NumPy · Pandas · Firebase · MySQL
-[1;36mtools[0m       Git · Docker · Postman · Figma
-```
+| Category | Skills |
+|---|---|
+| Languages | C++ · Python · Dart · JavaScript · SQL |
+| Web & Mobile | Flutter · React · Next.js · FastAPI · Flask |
+| Data | NumPy · Pandas · Firebase · MySQL |
+| Tools | Git · Docker · Postman · Figma |
 
 ---
 
