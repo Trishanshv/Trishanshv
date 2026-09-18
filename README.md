@@ -17,7 +17,7 @@
 
 ## About
 
-Hi, I'm Trishansh — a final-year CS & Engineering student at IIIT Manipur, focused on software development, core CS fundamentals, and algorithmic problem solving. I mainly work in C++, Python, and Flutter, and I like building things that force me to actually understand what's underneath — like writing a search engine without `std::vector`, or hand-rolling a compiler with Flex and Bison instead of reaching for a library. Right now I'm splitting time between interview prep (aiming for Google), a research-flavored internship writeup, and picking a final-year project I can meaningfully extend in the time I have.
+Hi, I'm Trishansh Verma,a final-year CS & Engineering student at IIIT Manipur, focused on software development, core CS fundamentals, and algorithmic problem solving. I mainly work in C++, Python, and Flutter, and I like building things that force me to actually understand what's underneath like writing a search engine without `std::vector`, or hand-rolling a compiler with Flex and Bison instead of reaching for a library. Right now I'm splitting time between interview prep (aiming for Google), a research-flavored internship writeup, and picking a final-year project I can meaningfully extend in the time I have.
 
 Actively seeking SDE internship and full-time opportunities.
 
